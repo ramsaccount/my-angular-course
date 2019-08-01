@@ -18,6 +18,5 @@ export interface Track {
   id: number;
   trackNumber: number;
   title: string;
-  length: string:
+  length: string;
 }
-
